@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="DELETE">
+        <default>true</default>
+        <grant_type>client_credentials</grant_type>
+        <jwt_provider/>
+        <name>GraphAPI application_profile</name>
+        <oauth_entity display_value="GraphAPI">cc408bfb47a00210184a1af2e16d43d4</oauth_entity>
+        <saml2_assertion_producer/>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 06:40:31</sys_created_on>
+        <sys_id>a6314b3f47a00210184a1af2e16d4383</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GraphAPI application_profile</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>oauth_entity_profile_a6314b3f47a00210184a1af2e16d4383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 09:41:17</sys_updated_on>
+    </oauth_entity_profile>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>oauth_entity_profile_a6314b3f47a00210184a1af2e16d4383</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile"><oauth_entity_profile action="INSERT_OR_UPDATE"><default>true</default><grant_type>client_credentials</grant_type><jwt_provider/><name>GraphAPI application_profile</name><oauth_entity display_value="GraphAPI">cc408bfb47a00210184a1af2e16d43d4</oauth_entity><saml2_assertion_producer/><sys_class_name>oauth_entity_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-02 06:40:31</sys_created_on><sys_id>a6314b3f47a00210184a1af2e16d4383</sys_id><sys_mod_count>2</sys_mod_count><sys_name>GraphAPI application_profile</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>oauth_entity_profile_a6314b3f47a00210184a1af2e16d4383</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-02 09:41:17</sys_updated_on></oauth_entity_profile></record_update>]]></payload>
+        <payload_hash>2085612588</payload_hash>
+        <record_name>GraphAPI application_profile</record_name>
+        <reverted_from/>
+        <source>e86c714e47e84210184a1af2e16d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 09:41:17</sys_created_on>
+        <sys_id>d69a27f747640210184a1af2e16d43b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dfe8a0ec30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 09:41:17</sys_updated_on>
+        <type>OAuth Entity Profile</type>
+        <update_guid>de9a27f78e6402105220b2063f2011b6</update_guid>
+        <update_guid_history>de9a27f78e6402105220b2063f2011b6:2085612588,e07bcbb7f9e00210e3defc20998f5343:-1093567786,658607b348e00210efd7f9a5a2130243:0,da368f737ae00210c058f95915576d2b:-816894270,e2314b3f55a00210bde06e42d9eb6c85:-1370620490</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="GraphAPI application_profile">1293edcc473c0210184a1af2e16d4393</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 18:29:55</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_profile">oauth_entity_profile</sys_db_object>
+        <sys_id>a84f6dc7616b445ab11dee1280ff46b9</sys_id>
+        <sys_metadata>a6314b3f47a00210184a1af2e16d4383</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GraphAPI application_profile</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>oauth_entity_profile_a6314b3f47a00210184a1af2e16d4383</sys_update_name>
+        <sys_update_version display_value="oauth_entity_profile_a6314b3f47a00210184a1af2e16d4383">d69a27f747640210184a1af2e16d43b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 18:29:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

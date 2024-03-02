@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>get_user</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get User</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 08:33:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce2bdfb747240210184a1af2e16d43ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get User</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_ce2bdfb747240210184a1af2e16d43ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 08:33:49</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_variable_value action="DELETE" query="document_key=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_hub_step_instance action="DELETE" query="action=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_hub_action_input action="DELETE" query="model=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_hub_action_output action="DELETE" query="model=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_hub_action_status_metadata action="DELETE" query="action_type_id=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_input_ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_input_ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_output_ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_hub_action_plan action="DELETE" query="action_id=ce2bdfb747240210184a1af2e16d43ef"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sys_hub_action_type_definition_ce2bdfb747240210184a1af2e16d43ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_status/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><ih_action>false</ih_action><internal_name>get_user</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Get User</name><natlang/><outputs/><pre_compiled>false</pre_compiled><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-02 08:33:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ce2bdfb747240210184a1af2e16d43ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Get User</sys_name><sys_overrides/><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>sys_hub_action_type_definition_ce2bdfb747240210184a1af2e16d43ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-02 08:33:49</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=ce2bdfb747240210184a1af2e16d43ef"/><sys_variable_value action="delete_multiple" query="document_key=ce2bdfb747240210184a1af2e16d43ef"/><sys_hub_step_instance action="delete_multiple" query="action=ce2bdfb747240210184a1af2e16d43ef"/><sys_hub_action_input action="delete_multiple" query="model=ce2bdfb747240210184a1af2e16d43ef"/><sys_hub_action_output action="delete_multiple" query="model=ce2bdfb747240210184a1af2e16d43ef"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=ce2bdfb747240210184a1af2e16d43ef"/><sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=ce2bdfb747240210184a1af2e16d43ef"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_ce2bdfb747240210184a1af2e16d43ef"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_ce2bdfb747240210184a1af2e16d43ef"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_ce2bdfb747240210184a1af2e16d43ef"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_ce2bdfb747240210184a1af2e16d43ef"/><sys_hub_action_plan action="delete_multiple" query="action_id=ce2bdfb747240210184a1af2e16d43ef"/></record_update>]]></payload>
+        <payload_hash>1447010388</payload_hash>
+        <record_name>Get User</record_name>
+        <reverted_from/>
+        <source>e86c714e47e84210184a1af2e16d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 08:33:49</sys_created_on>
+        <sys_id>5a2b5bf747240210184a1af2e16d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dfe4c4b850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 08:33:49</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>9e2b5bf7c0240210551a9af873741bdc</update_guid>
+        <update_guid_history>9e2b5bf7c0240210551a9af873741bdc:1447010388</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 08:35:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>316ed5ecb3904edf8d12afd757ef3d21</sys_id>
+        <sys_metadata>ce2bdfb747240210184a1af2e16d43ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get User</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_ce2bdfb747240210184a1af2e16d43ef</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_ce2bdfb747240210184a1af2e16d43ef">5a2b5bf747240210184a1af2e16d43dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 08:35:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

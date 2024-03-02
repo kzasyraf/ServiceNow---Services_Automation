@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>oauth2</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>GraphAPI</name>
+        <oauth2_profile display_value="GraphAPI delegate_profile">d161cf3f47a00210184a1af2e16d4380</oauth2_profile>
+        <protocol_name/>
+        <rest_endpoint>https://graph.microsoft.com/${version}</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 06:25:21</sys_created_on>
+        <sys_id>5c9dfe3b47a00210184a1af2e16d43c7</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>GraphAPI</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>sys_rest_message_5c9dfe3b47a00210184a1af2e16d43c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 09:43:01</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sys_rest_message_5c9dfe3b47a00210184a1af2e16d43c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>oauth2</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>GraphAPI</name><oauth2_profile display_value="GraphAPI delegate_profile">d161cf3f47a00210184a1af2e16d4380</oauth2_profile><protocol_name/><rest_endpoint>https://graph.microsoft.com/${version}</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-02 06:25:21</sys_created_on><sys_id>5c9dfe3b47a00210184a1af2e16d43c7</sys_id><sys_mod_count>5</sys_mod_count><sys_name>GraphAPI</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>sys_rest_message_5c9dfe3b47a00210184a1af2e16d43c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-02 09:43:01</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>2143095814</payload_hash>
+        <record_name>GraphAPI</record_name>
+        <reverted_from/>
+        <source>e86c714e47e84210184a1af2e16d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 09:43:01</sys_created_on>
+        <sys_id>fffa2ff747640210184a1af2e16d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dfe8ba4c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 09:43:01</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>37fa2ff701640210899470405fc40fd2</update_guid>
+        <update_guid_history>37fa2ff701640210899470405fc40fd2:2143095814,2feed7fbeb240210c60ff93b1496f65e:-973949732,990b0fb7ace0021065ec8313119ca16b:-171984917,ad8607b3cee0021033b22a914a15e167:0,d6368f7393e002109535079cde6c3021:-1242220124,dc054733e6e002103ed4de10c69cec14:1886294936,a632077f15a0021065c368d99d232bf6:-171984917,98cdbaf74ea0021018280eead90c734c:-445199176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 18:27:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>805489ce88f04297bef1910c6a2fbad9</sys_id>
+        <sys_metadata>5c9dfe3b47a00210184a1af2e16d43c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GraphAPI</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sys_rest_message_5c9dfe3b47a00210184a1af2e16d43c7</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_5c9dfe3b47a00210184a1af2e16d43c7">fffa2ff747640210184a1af2e16d43d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 18:27:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

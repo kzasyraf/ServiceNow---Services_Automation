@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="DELETE">
+        <in_default_profile>false</in_default_profile>
+        <name>User.Read</name>
+        <oauth_entity display_value="Service Automation">cc408bfb47a00210184a1af2e16d43d4</oauth_entity>
+        <oauth_entity_scope>User.Read</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 06:55:30</sys_created_on>
+        <sys_id>4d74cfff47a00210184a1af2e16d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User.Read</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>oauth_entity_scope_4d74cfff47a00210184a1af2e16d43fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 06:55:30</sys_updated_on>
+    </oauth_entity_scope>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>oauth_entity_scope_4d74cfff47a00210184a1af2e16d43fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="INSERT_OR_UPDATE">
+        <in_default_profile>false</in_default_profile>
+        <name>User.Read</name>
+        <oauth_entity display_value="Service Automation">cc408bfb47a00210184a1af2e16d43d4</oauth_entity>
+        <oauth_entity_scope>User.Read</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 06:55:30</sys_created_on>
+        <sys_id>4d74cfff47a00210184a1af2e16d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User.Read</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>oauth_entity_scope_4d74cfff47a00210184a1af2e16d43fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 06:55:30</sys_updated_on>
+    </oauth_entity_scope>
+</record_update>]]></payload>
+        <payload_hash>-1528863808</payload_hash>
+        <record_name>User.Read</record_name>
+        <reverted_from/>
+        <source>0986c3b347e00210184a1af2e16d43c3</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 07:03:40</sys_created_on>
+        <sys_id>e18607b347e00210184a1af2e16d4360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dfdf9c1220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 07:03:40</sys_updated_on>
+        <type>OAuth Entity Scope</type>
+        <update_guid>ad8607b3dbe002103bd64b3e4262435f</update_guid>
+        <update_guid_history>ad8607b3dbe002103bd64b3e4262435f:0,5e368f7362e002108a4d3f307624ff0b:275799256,caa48fff97a002108bac491a867d02af:-723197748</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User.Read">9873a9cc473c0210184a1af2e16d4390</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 18:29:15</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_scope">oauth_entity_scope</sys_db_object>
+        <sys_id>1957e880d79b4272b06c1969609f66e4</sys_id>
+        <sys_metadata>4d74cfff47a00210184a1af2e16d43fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User.Read</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>oauth_entity_scope_4d74cfff47a00210184a1af2e16d43fe</sys_update_name>
+        <sys_update_version display_value="oauth_entity_scope_4d74cfff47a00210184a1af2e16d43fe">e18607b347e00210184a1af2e16d4360</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 18:29:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

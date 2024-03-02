@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_1320670_servic_0.Service_Automation_Credential</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Service Automation Credential</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 08:23:22</sys_created_on>
+        <sys_id>2f98d33747240210184a1af2e16d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1320670_servic_0.Service_Automation_Credential</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>sys_alias_2f98d33747240210184a1af2e16d4347</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 08:23:22</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sys_alias_2f98d33747240210184a1af2e16d4347</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_1320670_servic_0.Service_Automation_Credential</id><multiple_connections>false</multiple_connections><name>Service Automation Credential</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-02 08:23:22</sys_created_on><sys_id>2f98d33747240210184a1af2e16d4347</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1320670_servic_0.Service_Automation_Credential</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>sys_alias_2f98d33747240210184a1af2e16d4347</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-02 08:23:22</sys_updated_on><type>credential</type></sys_alias></record_update>]]></payload>
+        <payload_hash>950819307</payload_hash>
+        <record_name>x_1320670_servic_0.Service_Automation_Credential</record_name>
+        <reverted_from/>
+        <source>e86c714e47e84210184a1af2e16d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 08:23:22</sys_created_on>
+        <sys_id>11c85f3747240210184a1af2e16d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dfe42bbe50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 08:23:22</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>55c85f37a12402101fb16f59e6d1c1bd</update_guid>
+        <update_guid_history>55c85f37a12402101fb16f59e6d1c1bd:950819307</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 08:46:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>6737529985e343f484de30f390e17310</sys_id>
+        <sys_metadata>2f98d33747240210184a1af2e16d4347</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1320670_servic_0.Service_Automation_Credential</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sys_alias_2f98d33747240210184a1af2e16d4347</sys_update_name>
+        <sys_update_version display_value="sys_alias_2f98d33747240210184a1af2e16d4347">11c85f3747240210184a1af2e16d43be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 08:46:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
