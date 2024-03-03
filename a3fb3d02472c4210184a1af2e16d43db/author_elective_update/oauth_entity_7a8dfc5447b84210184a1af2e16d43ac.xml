@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>e51fed19-5857-4e0b-a805-715170fb2453@18b974a6-5133-4d70-b93c-e4edccf45555</client_id>
+        <client_secret>﷞﷟﷒e0cbe7d347d00210184a1af2e16d4377﷬﷔1﷬﷭Q6h1ufxgK3h9O6Arog4blw==I3ooSTGJCy-2i1_5BmetUFo0HpkBzkiUjNkHElL8ANbhD-EJgwVbILMs25tKGVk4Z1ui_9P_hYn8cZi9﷮﷯</client_secret>
+        <client_uuid>ba8dfc5447b84210184a1af2e16d43ac</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>client_credentials</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>Sharepoint Online Connection</name>
+        <oauth_api_script display_value="SharepointOnlineOAuthToken">c8d0df4847f04210184a1af2e16d43cc</oauth_api_script>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev228324.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url>https://accounts.accesscontrol.windows.net/&lt;Tennant ID&gt;/tokens/OAuth/2</refresh_token_url>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url>https://uatsandbox.sharepoint.com/_layouts/15/appredirect.aspx</revoke_token_url>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 10:22:08</sys_created_on>
+        <sys_id>7a8dfc5447b84210184a1af2e16d43ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sharepoint Online Connection</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>oauth_entity_7a8dfc5447b84210184a1af2e16d43ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 10:22:09</sys_updated_on>
+        <token_url>https://accounts.accesscontrol.windows.net/18b974a6-5133-4d70-b93c-e4edccf45555/tokens/OAuth/2</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>oauth_entity_7a8dfc5447b84210184a1af2e16d43ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>60</auth_code_lifespan><auth_url/><certificate_url/><client_id>e51fed19-5857-4e0b-a805-715170fb2453@18b974a6-5133-4d70-b93c-e4edccf45555</client_id><client_secret>﷞﷟﷒e0cbe7d347d00210184a1af2e16d4377﷬﷔1﷬﷭Q6h1ufxgK3h9O6Arog4blw==I3ooSTGJCy-2i1_5BmetUFo0HpkBzkiUjNkHElL8ANbhD-EJgwVbILMs25tKGVk4Z1ui_9P_hYn8cZi9﷮﷯</client_secret><client_uuid>ba8dfc5447b84210184a1af2e16d43ac</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>client_credentials</default_grant_type><id_token_lifespan>86400</id_token_lifespan><logo_url/><message_signature_lifespan>60</message_signature_lifespan><mobile_client>false</mobile_client><name>Sharepoint Online Connection</name><oauth_api_script display_value="SharepointOnlineOAuthToken">c8d0df4847f04210184a1af2e16d43cc</oauth_api_script><protocol_name/><public_client>false</public_client><redirect_url>https://dev228324.service-now.com/oauth_redirect.do</redirect_url><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url>https://accounts.accesscontrol.windows.net/&lt;Tennant ID&gt;/tokens/OAuth/2</refresh_token_url><restricted_binding>false</restricted_binding><revoke_token_url>https://uatsandbox.sharepoint.com/_layouts/15/appredirect.aspx</revoke_token_url><salt/><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 10:22:08</sys_created_on><sys_id>7a8dfc5447b84210184a1af2e16d43ac</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Sharepoint Online Connection</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>oauth_entity_7a8dfc5447b84210184a1af2e16d43ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 10:22:09</sys_updated_on><token_url>https://accounts.accesscontrol.windows.net/18b974a6-5133-4d70-b93c-e4edccf45555/tokens/OAuth/2</token_url><type>oauth_provider</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>-940732111</payload_hash>
+        <record_name>Sharepoint Online Connection</record_name>
+        <reverted_from/>
+        <source>e86c714e47e84210184a1af2e16d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 10:22:09</sys_created_on>
+        <sys_id>b68dfc5447b84210184a1af2e16d43bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e03d5d5e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 10:22:09</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>be8dfc5403b8421060b1b1af8a8f2fbb</update_guid>
+        <update_guid_history>be8dfc5403b8421060b1b1af8a8f2fbb:-940732111,f28dfc544db84210afe58186a3cc21ba:-380188402</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sharepoint Online Connection">b28efc9447b84210184a1af2e16d434d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 10:26:30</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>6254278b5bfd4b5197476d882672e6b9</sys_id>
+        <sys_metadata>7a8dfc5447b84210184a1af2e16d43ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sharepoint Online Connection</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>oauth_entity_7a8dfc5447b84210184a1af2e16d43ac</sys_update_name>
+        <sys_update_version display_value="oauth_entity_7a8dfc5447b84210184a1af2e16d43ac">b68dfc5447b84210184a1af2e16d43bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 10:26:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

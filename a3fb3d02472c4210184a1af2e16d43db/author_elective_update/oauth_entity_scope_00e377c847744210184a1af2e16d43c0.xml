@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="DELETE">
+        <in_default_profile>false</in_default_profile>
+        <name>resource</name>
+        <oauth_entity display_value="Sharepoint Online Connection">c4e377c847744210184a1af2e16d43bf</oauth_entity>
+        <oauth_entity_scope>00000003-0000-0ff1-ce00-000000000000/uatsandbox.sharepoint.com@18b974a6-5133-4d70-b93c-e4edccf45555</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 05:00:17</sys_created_on>
+        <sys_id>00e377c847744210184a1af2e16d43c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resource</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>oauth_entity_scope_00e377c847744210184a1af2e16d43c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 05:00:17</sys_updated_on>
+    </oauth_entity_scope>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>oauth_entity_scope_00e377c847744210184a1af2e16d43c0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope"><oauth_entity_scope action="INSERT_OR_UPDATE"><in_default_profile>false</in_default_profile><name>resource</name><oauth_entity display_value="Sharepoint Online Connection">c4e377c847744210184a1af2e16d43bf</oauth_entity><oauth_entity_scope>00000003-0000-0ff1-ce00-000000000000/uatsandbox.sharepoint.com@18b974a6-5133-4d70-b93c-e4edccf45555</oauth_entity_scope><sys_class_name>oauth_entity_scope</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 05:00:17</sys_created_on><sys_id>00e377c847744210184a1af2e16d43c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>resource</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>oauth_entity_scope_00e377c847744210184a1af2e16d43c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 05:00:17</sys_updated_on></oauth_entity_scope></record_update>]]></payload>
+        <payload_hash>-619770895</payload_hash>
+        <record_name>resource</record_name>
+        <reverted_from/>
+        <source>e86c714e47e84210184a1af2e16d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 05:00:17</sys_created_on>
+        <sys_id>cce377c847744210184a1af2e16d43c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e02af28260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 05:00:17</sys_updated_on>
+        <type>OAuth Entity Scope</type>
+        <update_guid>04e377c8b97442108dcc1e2d19b9cdc1</update_guid>
+        <update_guid_history>04e377c8b97442108dcc1e2d19b9cdc1:-619770895</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="resource">e794fb0c47744210184a1af2e16d4361</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 05:03:32</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_scope">oauth_entity_scope</sys_db_object>
+        <sys_id>0f1e89d0e0fd4374814f62a9f9529490</sys_id>
+        <sys_metadata>00e377c847744210184a1af2e16d43c0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resource</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>oauth_entity_scope_00e377c847744210184a1af2e16d43c0</sys_update_name>
+        <sys_update_version display_value="oauth_entity_scope_00e377c847744210184a1af2e16d43c0">cce377c847744210184a1af2e16d43c1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 05:03:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
