@@ -6,7 +6,7 @@
 			"oauth_entity_profile": [&#13;
 				{&#13;
 					"grant_type": "client_credentials",&#13;
-					"name": "Sharepoint Online Connection Profile",&#13;
+					"name": "Sharepoint Online Profile",&#13;
 					"default": true,&#13;
 					"oauth_entity_profile_scope": [&#13;
 						"00000003-0000-0ff1-ce00-000000000000"&#13;
@@ -27,7 +27,7 @@
 			"default_grant_type": "client_credentials",&#13;
 			"public_client": false,&#13;
 			"oauth_api_script": "",&#13;
-			"name": "Sharepoint Online Connection",&#13;
+			"name": "Sharepoint Online",&#13;
 			"client_secret": "",&#13;
 			"auth_url": "",&#13;
 			"token_url": "https://accounts.accesscontrol.windows.net/&lt;Tennant ID&gt;/tokens/OAuth/2",&#13;
@@ -48,7 +48,7 @@
 	"name": "connection.name",&#13;
 	"label": "Connection Name",&#13;
 	"type": "text",&#13;
-	"defaultValue": "Sharepoint Online Connection",&#13;
+	"defaultValue": "Sharepoint Online",&#13;
 	"hint": "Display name for the Connection",&#13;
         "mandatory":true&#13;
     },&#13;
@@ -95,16 +95,47 @@
 }</dynamic_data_schema>
         <name>Sharepoint Online</name>
         <on_edit_script><![CDATA[(function execute(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData) {
-   // aliasId: sys_id of the alias record
-   // connectionSysId: sys_id of the connection record created by using the default and dynamic data
-   // jsonDefaultData (String): The default JSON template data from template table
-   // e.g. var jsonDefaultParsed = JSON.parse(jsonDefaultData);
-   //      gs.info("default connection url =  jsonDefaultParsed["connection"]["connection_url"]);
-   // jsonDynamicData (String): User input based on the key/values defined in "Dynamic Data"
-   // e.g. var jsonDynamicParsed = JSON.parse(jsonDynamicData);
-   //      gs.info("dynamic connection url =  jsonDynamicParsed["connection.connection_url"]);
-})(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData);
-]]></on_edit_script>
+	let jsonDynamicParsed = JSON.parse(jsonDynamicData);
+	let tenantId = jsonDynamicParsed["credential.tenant_id"];
+	let connectionUrl = jsonDynamicParsed["connection.connection_url"];
+	let clientID = jsonDynamicParsed["credential.oauth_entity.client_id"];
+
+	let httpConnectionGr = new GlideRecord('http_connection');
+	httpConnectionGr.get(connectionSysId);
+
+	let credentialGr = new GlideRecord('oauth_2_0_credentials');
+	credentialGr.get(httpConnectionGr.getValue('credential'));
+
+	let entityProfileGr = new GlideRecord('oauth_entity_profile');
+	entityProfileGr.get(credentialGr.getValue('oauth_entity_profile'));
+
+	let oauthScriptGr = new GlideRecord('sys_script_include');
+	oauthScriptGr.get('name', 'SharepointOnlineOAuthToken');
+
+	new global.GlideQuery('oauth_entity')
+		.where('sys_id', entityProfileGr.getValue('oauth_entity'))
+		.update(
+			{
+				'oauth_api_script': oauthScriptGr.getValue('sys_id'),
+				'client_id': clientID + '@' + tenantId,
+				'token_url': 'https://accounts.accesscontrol.windows.net/' + tenantId + '/tokens/OAuth/2',
+				'revoke_token_url': connectionUrl + '/_layouts/15/appredirect.aspx'	
+			}
+		);
+	
+	let entityScopesGr = new GlideRecord('oauth_entity_scope');
+	entityScopesGr.addQuery('name', 'resource');
+	entityScopesGr.addQuery('oauth_entity', entityProfileGr.getValue('oauth_entity'));
+	entityScopesGr.query();
+	while(entityScopesGr.next()){
+			entityScopesGr.setValue(
+				'oauth_entity_scope',
+				'00000003-0000-0ff1-ce00-000000000000/'  + httpConnectionGr.getValue('host') + '@' + tenantId
+			);
+			entityScopesGr.update();
+	}
+
+})(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData);]]></on_edit_script>
         <post_process_script><![CDATA[(function execute(aliasId, connectionSysId, jsonDefaultData, jsonDynamicData) {
 	let jsonDynamicParsed = JSON.parse(jsonDynamicData);
 	let tenantId = jsonDynamicParsed["credential.tenant_id"];
@@ -179,13 +210,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-03 02:10:24</sys_created_on>
         <sys_id>b8ecc38447f04210184a1af2e16d43c4</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>Sharepoint Online</sys_name>
         <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
         <sys_policy/>
         <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
         <sys_update_name>sys_alias_templates_b8ecc38447f04210184a1af2e16d43c4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-03 10:53:23</sys_updated_on>
+        <sys_updated_on>2024-03-03 17:28:17</sys_updated_on>
     </sys_alias_templates>
 </record_update>

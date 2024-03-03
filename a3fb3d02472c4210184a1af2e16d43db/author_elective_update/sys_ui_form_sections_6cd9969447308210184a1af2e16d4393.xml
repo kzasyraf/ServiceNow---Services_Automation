@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="6cd9969447308210184a1af2e16d4393" sys_domain="global" table="x_1320670_servic_0_change_broadcast" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 17:05:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0d9969447308210184a1af2e16d43c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">e0d9969447308210184a1af2e16d4396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 17:05:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 17:05:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecd9969447308210184a1af2e16d43d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">e8d9969447308210184a1af2e16d43d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 17:05:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 17:05:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cd9969447308210184a1af2e16d43ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">68d9969447308210184a1af2e16d43c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 17:05:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 17:05:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64d9969447308210184a1af2e16d43d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">a0d9969447308210184a1af2e16d43cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 17:05:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 17:05:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8d9969447308210184a1af2e16d43d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">64d9969447308210184a1af2e16d43d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 17:05:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1320670_servic_0_change_broadcast</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 17:05:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cd9969447308210184a1af2e16d4393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1320670_servic_0_change_broadcast</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6cd9969447308210184a1af2e16d4393</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 17:05:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sys_ui_form_sections_6cd9969447308210184a1af2e16d4393</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="6cd9969447308210184a1af2e16d4393" sys_domain="global" table="x_1320670_servic_0_change_broadcast" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 17:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e0d9969447308210184a1af2e16d43c5</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">e0d9969447308210184a1af2e16d4396</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 17:05:19</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 17:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ecd9969447308210184a1af2e16d43d4</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form><sys_ui_section caption="Planning" display_value="Planning" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">e8d9969447308210184a1af2e16d43d0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 17:05:19</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 17:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2cd9969447308210184a1af2e16d43ca</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form><sys_ui_section caption="Schedule" display_value="Schedule" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">68d9969447308210184a1af2e16d43c5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 17:05:19</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 17:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>64d9969447308210184a1af2e16d43d0</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form><sys_ui_section caption="Notes" display_value="Notes" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">a0d9969447308210184a1af2e16d43cb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 17:05:19</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 17:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b8d9969447308210184a1af2e16d43d8</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1320670_servic_0_change_broadcast" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6cd9969447308210184a1af2e16d4393</sys_ui_form><sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_1320670_servic_0_change_broadcast" sys_domain="global" view="3aa778757db1311076daf29f52070de0">64d9969447308210184a1af2e16d43d5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 17:05:19</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1320670_servic_0_change_broadcast</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 17:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6cd9969447308210184a1af2e16d4393</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1320670_servic_0_change_broadcast</sys_name><sys_overrides/><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>sys_ui_form_sections_6cd9969447308210184a1af2e16d4393</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 17:05:19</sys_updated_on><sys_user/><view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>1560154752</payload_hash>
+        <record_name>Change Broadcast</record_name>
+        <reverted_from/>
+        <source>d305dadc47fc4210184a1af2e16d4313</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:05:19</sys_created_on>
+        <sys_id>bcd9969447308210184a1af2e16d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e0546f38e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:05:19</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>34d9969455308210a4da12479b3f80da</update_guid>
+        <update_guid_history>34d9969455308210a4da12479b3f80da:1560154752,20d99694fa30821000475c91e60ce295:80801210</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:37:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>8bc1d4852ef049949d9f7561443f6921</sys_id>
+        <sys_metadata>6cd9969447308210184a1af2e16d4393</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1320670_servic_0_change_broadcast</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent display_value="">409e0a5847fc4210184a1af2e16d43cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_6cd9969447308210184a1af2e16d4393</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_6cd9969447308210184a1af2e16d4393">bcd9969447308210184a1af2e16d43da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:37:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

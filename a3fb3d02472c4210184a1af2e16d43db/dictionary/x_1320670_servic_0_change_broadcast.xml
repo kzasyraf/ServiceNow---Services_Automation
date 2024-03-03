@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="409e0a5847fc4210184a1af2e16d43cc" extends="change_request" label="Change Broadcast" max_length="40" name="x_1320670_servic_0_change_broadcast" type="collection"/>
-</database>

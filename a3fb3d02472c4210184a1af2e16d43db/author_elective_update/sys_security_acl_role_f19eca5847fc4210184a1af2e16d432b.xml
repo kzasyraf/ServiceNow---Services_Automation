@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:16:14</sys_created_on>
+        <sys_id>f19eca5847fc4210184a1af2e16d432b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1320670_servic_0_change_broadcast.x_1320670_servic_0.admin</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_security_acl display_value="x_1320670_servic_0_change_broadcast">719eca5847fc4210184a1af2e16d4326</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f19eca5847fc4210184a1af2e16d432b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:16:14</sys_updated_on>
+        <sys_user_role display_value="x_1320670_servic_0.admin" name="x_1320670_servic_0.admin">659e8a5847fc4210184a1af2e16d43d9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sys_security_acl_role_f19eca5847fc4210184a1af2e16d432b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 16:16:14</sys_created_on><sys_id>f19eca5847fc4210184a1af2e16d432b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1320670_servic_0_change_broadcast.x_1320670_servic_0.admin</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_security_acl display_value="x_1320670_servic_0_change_broadcast">719eca5847fc4210184a1af2e16d4326</sys_security_acl><sys_update_name>sys_security_acl_role_f19eca5847fc4210184a1af2e16d432b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 16:16:14</sys_updated_on><sys_user_role display_value="x_1320670_servic_0.admin" name="x_1320670_servic_0.admin">659e8a5847fc4210184a1af2e16d43d9</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1648896890</payload_hash>
+        <record_name>x_1320670_servic_0_change_broadcast.x_1320670_servic_0.admin</record_name>
+        <reverted_from/>
+        <source>07ebd918473c4210184a1af2e16d433a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:16:14</sys_created_on>
+        <sys_id>b59eca5847fc4210184a1af2e16d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e051a047e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:16:14</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f99eca58e6fc421053cdcde2b72a802e</update_guid>
+        <update_guid_history>f99eca58e6fc421053cdcde2b72a802e:-1648896890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1320670_servic_0_change_broadcast.x_1320670_servic_0.admin">3f712a9c47308210184a1af2e16d438d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:38:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>864e0c2c77e144b2a18a64f2e0caaca9</sys_id>
+        <sys_metadata>f19eca5847fc4210184a1af2e16d432b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1320670_servic_0_change_broadcast.x_1320670_servic_0.admin</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent display_value="">719eca5847fc4210184a1af2e16d4326</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f19eca5847fc4210184a1af2e16d432b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f19eca5847fc4210184a1af2e16d432b">b59eca5847fc4210184a1af2e16d432f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:38:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

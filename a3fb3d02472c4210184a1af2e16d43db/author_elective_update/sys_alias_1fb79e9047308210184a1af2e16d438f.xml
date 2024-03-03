@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="Sharepoint Online">b8ecc38447f04210184a1af2e16d43c4</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>x_1320670_servic_0.Sharepoint_Online_Connection</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Sharepoint Online Connection</name>
+        <parent display_value="x_1320670_servic_0.Sharepoint_Online">939ccf4447f04210184a1af2e16d436f</parent>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:56:13</sys_created_on>
+        <sys_id>1fb79e9047308210184a1af2e16d438f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.Sharepoint_Online_Connection</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>sys_alias_1fb79e9047308210184a1af2e16d438f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:56:13</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sys_alias_1fb79e9047308210184a1af2e16d438f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="Sharepoint Online">b8ecc38447f04210184a1af2e16d43c4</configuration_template><connection_type>http_connection</connection_type><id>x_1320670_servic_0.Sharepoint_Online_Connection</id><multiple_connections>false</multiple_connections><name>Sharepoint Online Connection</name><parent display_value="x_1320670_servic_0.Sharepoint_Online">939ccf4447f04210184a1af2e16d436f</parent><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 16:56:13</sys_created_on><sys_id>1fb79e9047308210184a1af2e16d438f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Sharepoint_Online_Connection</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>sys_alias_1fb79e9047308210184a1af2e16d438f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 16:56:13</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-386764219</payload_hash>
+        <record_name>x_1320670_servic_0.Sharepoint_Online_Connection</record_name>
+        <reverted_from/>
+        <source>d305dadc47fc4210184a1af2e16d4313</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:56:13</sys_created_on>
+        <sys_id>53b7521447308210184a1af2e16d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e053e9dd90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:56:13</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>97b75214a130821053fd103127887e46</update_guid>
+        <update_guid_history>97b75214a130821053fd103127887e46:-386764219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:16:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>3161a43095a44ba9b699f6bd31ba1e09</sys_id>
+        <sys_metadata>1fb79e9047308210184a1af2e16d438f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.Sharepoint_Online_Connection</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sys_alias_1fb79e9047308210184a1af2e16d438f</sys_update_name>
+        <sys_update_version display_value="sys_alias_1fb79e9047308210184a1af2e16d438f">53b7521447308210184a1af2e16d4347</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:16:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Change Broadcast</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1320670_servic_0_change_broadcast</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Change Request" name="change_request">26f7b8397db1311076daf29f52070d56</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:16:07</sys_created_on>
+        <sys_id>409e0a5847fc4210184a1af2e16d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Servic 0 Change Broadcast</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>sys_db_object_409e0a5847fc4210184a1af2e16d43cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:16:07</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sys_db_object_409e0a5847fc4210184a1af2e16d43cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Change Broadcast</label><live_feed_enabled>false</live_feed_enabled><name>x_1320670_servic_0_change_broadcast</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Change Request" name="change_request">26f7b8397db1311076daf29f52070d56</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 16:16:07</sys_created_on><sys_id>409e0a5847fc4210184a1af2e16d43cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Servic 0 Change Broadcast</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>sys_db_object_409e0a5847fc4210184a1af2e16d43cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 16:16:07</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-2143884238</payload_hash>
+        <record_name>Change Broadcast</record_name>
+        <reverted_from/>
+        <source>07ebd918473c4210184a1af2e16d433a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:16:08</sys_created_on>
+        <sys_id>849e0a5847fc4210184a1af2e16d43f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e0519ea920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:16:08</sys_updated_on>
+        <type>Table</type>
+        <update_guid>0c9e0a58d7fc42103c8047c9657262f3</update_guid>
+        <update_guid_history>0c9e0a58d7fc42103c8047c9657262f3:-2143884238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:38:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>20e142047d68472b9e7cbdbc638fb209</sys_id>
+        <sys_metadata>409e0a5847fc4210184a1af2e16d43cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Broadcast</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sys_db_object_409e0a5847fc4210184a1af2e16d43cc</sys_update_name>
+        <sys_update_version display_value="sys_db_object_409e0a5847fc4210184a1af2e16d43cc">849e0a5847fc4210184a1af2e16d43f4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:38:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
