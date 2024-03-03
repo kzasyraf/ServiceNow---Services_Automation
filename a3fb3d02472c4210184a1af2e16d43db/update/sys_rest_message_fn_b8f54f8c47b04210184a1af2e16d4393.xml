@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Get My Profile</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Microsoft Graph API [ Get My Profile ]</qualified_name>
+        <rest_endpoint>https://graph.microsoft.com/${API Version}/me</rest_endpoint>
+        <rest_message display_value="Microsoft Graph API">ce0d7d42472c4210184a1af2e16d43c1</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 01:41:29</sys_created_on>
+        <sys_id>b8f54f8c47b04210184a1af2e16d4393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get My Profile</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>sys_rest_message_fn_b8f54f8c47b04210184a1af2e16d4393</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 01:41:29</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
