@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="IT Change Notification Broadcast">9a9d4a1847fc4210184a1af2e16d431e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:19:15</sys_created_on>
+        <sys_id>794f0a9847fc4210184a1af2e16d4324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.IT Change Notification Broadcast</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_794f0a9847fc4210184a1af2e16d4324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:19:15</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</application>
+        <file_path/>
+        <instance_id>d8c837a91bb635106a85eb9b2d4bcb39</instance_id>
+        <instance_name>dev228324</instance_name>
+        <name>sc_cat_item_catalog_794f0a9847fc4210184a1af2e16d4324</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="IT Change Notification Broadcast">9a9d4a1847fc4210184a1af2e16d431e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-03 16:19:15</sys_created_on><sys_id>794f0a9847fc4210184a1af2e16d4324</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.IT Change Notification Broadcast</sys_name><sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package><sys_policy/><sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope><sys_update_name>sc_cat_item_catalog_794f0a9847fc4210184a1af2e16d4324</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-03 16:19:15</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>892084990</payload_hash>
+        <record_name>Service Catalog.IT Change Notification Broadcast</record_name>
+        <reverted_from/>
+        <source>07ebd918473c4210184a1af2e16d433a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:19:15</sys_created_on>
+        <sys_id>3d4f0a9847fc4210184a1af2e16d4340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e051cc7280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:19:15</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>bd4f0a98fffc4210f3f9cfdbdd42203f</update_guid>
+        <update_guid_history>bd4f0a98fffc4210f3f9cfdbdd42203f:892084990</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.IT Change Notification Broadcast">cdef82d847fc4210184a1af2e16d430e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:21:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>b2fadfe7ea6046dc900a710af307f671</sys_id>
+        <sys_metadata>794f0a9847fc4210184a1af2e16d4324</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.IT Change Notification Broadcast</sys_name>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_parent display_value="IT Change Notification Broadcast">9a9d4a1847fc4210184a1af2e16d431e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Services Automation">a3fb3d02472c4210184a1af2e16d43db</sys_scope>
+        <sys_scope_delete display_value="">5d41c93c5a9e491387c4844277b6c4a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_794f0a9847fc4210184a1af2e16d4324</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_794f0a9847fc4210184a1af2e16d4324">3d4f0a9847fc4210184a1af2e16d4340</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:21:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

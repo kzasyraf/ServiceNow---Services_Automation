@@ -7,7 +7,7 @@
         <basic_auth_user/>
         <description/>
         <name>Sharepoint Online</name>
-        <oauth2_profile display_value="Sharepoint Online Connection Profile">db35019c47b84210184a1af2e16d439d</oauth2_profile>
+        <oauth2_profile/>
         <protocol_name/>
         <rest_endpoint>https://${domain}.sharepoint.com/_api/web</rest_endpoint>
         <sys_class_name>sys_rest_message</sys_class_name>

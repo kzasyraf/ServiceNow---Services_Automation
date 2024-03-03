@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Change Request" source="com.snc.change_request">96f7b8397db1311076daf29f52070d23</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 16:16:08</sys_created_on>
+        <sys_id>489e0a5847fc4210184a1af2e16d43eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Services Automation" source="x_1320670_servic_0">a3fb3d02472c4210184a1af2e16d43db</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 16:16:08</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
